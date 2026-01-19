@@ -21,7 +21,7 @@ The **Currency Converter** is a financial utility tool that allows users to conv
 
 ## 💻 Requirements
   - **Python 3.x**
-  - **API Key**: A valid key from [ExchangeRate-API](https://openweathermap.org/).
+  - **API Key**: A valid key from [ExchangeRate-API](https://www.exchangerate-api.com/).
   - **Dependencies**: Install required packages via pip:
 
 ``` Bash
